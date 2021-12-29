@@ -5,21 +5,18 @@
 }
 body{
 	background: url(img/bg.jpg);
-	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 50% 15%;
-	background-attachment:scroll; 
-	overflow: hidden auto;
-	max-height: 100%;
+	width: 100%;
 	}
 .container{
-
+	width: 100%;
 }
 .footer{
 	margin-top: 50px;
 	color: grey;
 	background: black;
 	border-radius: 2rem;
+	font-size: 10px;
 }
 
