@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body{
+	background: url(img/bg.jpg);
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 15%;
+	background-attachment:scroll; 
+	overflow: hidden auto;
+	max-height: 100%;
+	}
+.container{
+
+}
+.footer{
+	margin-top: 50px;
+	color: grey;
+	background: black;
+	border-radius: 2rem;
+}
+
